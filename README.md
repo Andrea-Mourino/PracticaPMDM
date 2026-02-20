@@ -4,11 +4,11 @@ Luego cree la pelota con un Tag player y con su Script que se llama PlayerContro
 
 (meter script)
 
-Tambien cree el enemigo que es un cuadrado y cree otro Script llamado EnemigoIa. Para designar que este persiga al player en las opciones del Script dentro de Unity hay que poner bola: Player(Transform).
+Tambien cree el enemigo que es un cuadrado y cree otro Script llamado EnemigoIa. Para designar que este persiga al player en las opciones del Script dentro de Unity hay que poner bola: Player(Transform). (Enemigo no tiene Tag)
 
 (meter script)
 
-Luego meti monedas, creando una esfera y dandole forma, ademas de crear una carpeta materiales y designandole un color. Aqui tambien cree un Script llamado Rotator donde le digo que pueda girar. Tambien dentro del Unity le asigno como Trigger para que cuadno lo toque desaparezca
+Luego meti monedas, creando una esfera y dandole forma, ademas de crear una carpeta materiales y designandole un color. Aqui tambien cree un Script llamado Rotator donde le digo que pueda girar. Tambien dentro del Unity le asigno como Trigger para que cuadno lo toque desaparezca. Tambien cree un Tag nuego llamado moneda
 
 (meter script)
 
