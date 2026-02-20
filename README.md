@@ -21,3 +21,6 @@ Para ajustar en la pantalla el text en cuestion tienes que ir a Unity y moverlo 
 (meter script)
 
 Todo lo que es la velocidad del enemigo, del jugador y todo eso lo puedes modificar dentro del Script o desde Unity, como prefieras.
+
+
+Dentro de cada Script se hace un Log para que dentro de Console salga los mensajes de las acciones
