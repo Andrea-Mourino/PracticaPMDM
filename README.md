@@ -155,7 +155,7 @@ void Update() {
 ```
 
 ## Cuarto
-Luego cree un Canvan donde hice un UI con un Text para signar en la Interfaz una Puntiacion. Para que pudiera contar las monedas le meti un metodo dentro del Script PlayerController donde le asigno que cada vez que el jugador agarre una moneda este cuente uno (como maximo le asigne 3). Tambien le asigne una variable count
+Luego cree un Canvas donde hice un UI con un Text para signar en la Interfaz una Puntiacion. Para que pudiera contar las monedas le meti un metodo dentro del Script PlayerController donde le asigno que cada vez que el jugador agarre una moneda este cuente uno (como maximo le asigne 3). Tambien le asigne una variable count
 
 Hice lo mismo con WIN y PERDER. Cree otro text y dentro del mismo Script le asigne otro metodo que en caso de conseguir todas las monedas te salga en pantalla WIN! y en caso de que el Enemigo te pille te salga perder.
 
