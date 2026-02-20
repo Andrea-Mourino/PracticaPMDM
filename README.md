@@ -1,4 +1,4 @@
-Primeramente cree el Plato el cual seria el mapa del juego. 
+Primeramente cree el Plano el cual seria el mapa del juego. 
 
 Luego cree la pelota con un Tag player y con su Script que se llama PlayerController
 
