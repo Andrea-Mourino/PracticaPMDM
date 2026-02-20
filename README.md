@@ -8,11 +8,10 @@ Luego cree la pelota con un Tag player y con su Script que se llama PlayerContro
 public float speed = 15f; 
     public TextMeshProUGUI countText;
     public GameObject winTextObject;
-
+    
     private int count;
     private Rigidbody rb;
-    
- ´´´
+´´´
 
 - En esta primera sección definimos todos los "ingredientes" que el script necesita. speed controla la velocidad del jugador. Luego tenemos dos variables fundamentales para la interfaz: countText (que usaremos para mostrar el número en pantalla usando el sistema avanzado TextMeshPro) y winTextObject (que es el mensaje grande que aparecerá al final). Por último, creamos dos variables privadas invisibles en el Inspector: count funcionará como nuestra calculadora mental para llevar la cuenta de las monedas, y rb almacenará el motor de físicas de nuestro personaje
 
